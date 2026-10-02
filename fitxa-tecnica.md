@@ -22,7 +22,9 @@ Configurar un sensor de temperatura digital en una placa Arduino Uno per llegir 
 3. Connectar el pin de dades al pin digital 2 de l'Arduino.
 4. Carregar el programa de lectura mitjançant la següent comanda de terminal:
 
+```bash
 arduino-cli compile --upload -p /dev/ttyACM0 --fqbn arduino:avr:uno
+```
 
 ## Comprovacions
 
