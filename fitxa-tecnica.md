@@ -39,13 +39,6 @@ arduino-cli compile --upload -p /dev/ttyACM0 --fqbn arduino:avr:uno
 | Error de connexió al port COM | Reconnectar el cable USB i seleccionar el port a Eines > Port. |
 | Valors incorrectes o absents | Comprovar la resistència i les connexions dels pinyons. |
 
-## Flux de Treball amb Git
-
-El flux de treball utilitzat per al control de versions d'aquesta fitxa tècnica segueix els següents passos:
-1. Creació d'estructura: Definició dels apartats principals.
-2. Desenvolupament de contingut: Inclusió del procediment, comprovacions i recursos gràfics.
-3. Revisió de format: Validació de les taules, enllaços i blocs de codi.
-4. Sincronització: Registre de canvis mitjançant commits locals i enviament al repositori remot (origin/main).
 
 ## Recursos
 
