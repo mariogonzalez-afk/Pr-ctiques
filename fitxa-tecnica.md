@@ -2,6 +2,8 @@
 
 # Fitxa tècnica: Instal·lació i configuració d'un sensor de temperatura
 
+![Sensor de Temperatura](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOq4r9kkQfQS6JI4o9aHg52QDW5hn2E4YqDDGnhP18Q&s=10)
+
 ## Objectiu
 
 Configurar un sensor de temperatura digital en una placa Arduino Uno per llegir dades ambientals en temps real i enregistrar la informació.
