@@ -10,17 +10,17 @@ Configurar un sensor de temperatura digital en una placa Arduino Uno per llegir 
 
 ## Materials
 
-Placa Arduino Uno
-Sensor de temperatura DHT11
-Cables jumper mascle-mascle
-Resistència de 4.7k Ω
+- Placa Arduino Uno
+- Sensor de temperatura DHT11
+- Cables jumper mascle-mascle
+- Resistència de 4.7k Ω
 
 ## Procediment
 
-Connectar el pin VCC del sensor al pin de 5V de l'Arduino.
-Connectar el pin GND del sensor al pin GND de l'Arduino.
-Connectar el pin de dades al pin digital 2 de l'Arduino.
-Carregar el programa de lectura mitjançant la següent comanda de terminal:
+1. Connectar el pin VCC del sensor al pin de 5V de l'Arduino.
+2. Connectar el pin GND del sensor al pin GND de l'Arduino.
+3. Connectar el pin de dades al pin digital 2 de l'Arduino.
+4. Carregar el programa de lectura mitjançant la següent comanda de terminal:
 
 arduino-cli compile --upload -p /dev/ttyACM0 --fqbn arduino:avr:uno
 
