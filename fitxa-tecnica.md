@@ -26,9 +26,9 @@ arduino-cli compile --upload -p /dev/ttyACM0 --fqbn arduino:avr:uno
 
 ## Comprovacions
 
-[ ] El LED d'alimentació de la placa està encès.
-[ ] La placa és reconeguda al port corresponent.
-[ ] Les lectures de temperatura s'actualitzen correctament.
+- [ ] El LED d'alimentació de la placa està encès.
+- [ ] La placa és reconeguda al port corresponent.
+- [ ] Les lectures de temperatura s'actualitzen correctament.
 
 ## Incidències i solucions
 
